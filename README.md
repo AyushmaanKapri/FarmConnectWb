@@ -52,6 +52,7 @@ Frontend technologies for creating responsive interfaces
 
 ## Author
 
- [@ayushmaankapri](https://www.github.com/ayushmaankapri)
- [@MuskanSaini2208](https://github.com/MuskanSaini2208)
+ [Ayush Kapri](https://www.github.com/ayushmaankapri)
+ 
+ [Muskan Saini](https://github.com/MuskanSaini2208)
 
