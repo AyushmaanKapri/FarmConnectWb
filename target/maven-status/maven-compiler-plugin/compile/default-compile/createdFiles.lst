@@ -4,9 +4,12 @@ com\learn\FarmConnect\entities\Category.class
 com\learn\FarmConnect\helper\Helper.class
 com\learn\FarmConnect\entities\User.class
 com\learn\FarmConnect\servlets\LogoutServlet.class
+com\learn\FarmConnect\entities\PriceRequest.class
 com\learn\FarmConnect\entities\Product.class
 com\learn\FarmConnect\dao\ProductDao.class
 com\learn\FarmConnect\helper\FactoryProvider.class
+com\learn\FarmConnect\servlets\PriceRequestServlet.class
 com\learn\FarmConnect\servlets\RegisterServlet.class
 com\learn\FarmConnect\dao\CategoryDao.class
 com\learn\FarmConnect\servlets\ProductOperationServlet.class
+com\learn\FarmConnect\dao\PriceRequestDao.class
