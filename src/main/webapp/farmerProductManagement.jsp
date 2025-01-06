@@ -43,7 +43,7 @@
                 <td>&#8377; <%= product.getPriceAfterApplyingDiscount() %></td>
                 <td>
                     <a href="editProduct.jsp?id=<%= product.getpId() %>" class="btn btn-warning">Edit</a>
-                    <a href="deleteProduct?id=<%= product.getpId() %>" class="btn btn-danger">Delete</a>
+                    <a href="deleteproduct?id=<%= product.getpId() %>" class="btn btn-danger">Delete</a>
                 </td>
             </tr>
             <%
